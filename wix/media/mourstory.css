@@ -1,0 +1,531 @@
+/* mobile */
+@media(min-width:320px) and (max-width:480px)
+{
+    .icon
+    {
+        margin-left: 0%;
+        margin-top: 2%;
+    }
+    .cart
+    {
+        margin-left: -40%;
+        margin-top: -15%;
+    }
+    .header i 
+    {
+        margin-top: 10%;
+        width: 60%;
+    }
+    i
+    {
+        margin-left: 3%;
+        padding: 0px 0px 8px 0px;
+    }
+    .login
+    {
+        margin-left: 78%;
+        margin-top: 4%;
+    }
+    .login p
+    {
+        margin-left: 32%;
+        margin-top: -25%;
+    }
+    .head .title
+    {
+        margin-top: 20%;
+        position: absolute;
+        margin-left: 37%;
+    }
+    .nav a 
+    {
+        margin-top: 13%;
+        display: flex;
+        padding-top: 2px;
+        flex-direction: column;
+    } 
+    .heading p
+    {
+        font-size: 28px;
+        word-spacing: 3px;
+        margin-left: 33%;
+        margin-top: 92%;
+    }
+    .main
+    {
+        height: 1960px;
+        width: 98%;
+        margin-top: 6%;
+        margin-left: 1%;
+    }
+    .main .box1
+    {
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 5%;
+    }
+    .main .box2
+    {
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 65%;
+    }
+    .main .box1 img
+    {
+        height: 500px;
+        width: 100%;
+    }
+    .main .box2 img
+    {
+        height: 500px;
+        width: 100%;
+    }
+    .con1 p
+    {
+        margin-left: 32%;
+        margin-top: 550px;
+    }
+    .con1 hr
+    {
+        height: 2px;
+        width: 5%;
+        margin-left: 47%;
+        margin-top: 600px;
+    }
+    .pra p
+    {
+        width: 80%;
+        margin-left: 38px;
+        margin-top: 645px;
+        word-spacing: 4px;
+        text-align: center;
+    }
+    .design p
+    {
+        text-align: center;
+        margin-left: 28%;
+        margin-top: 1540px;
+    }
+    .design hr
+    {
+        height: 2px;
+        width: 5%;
+        margin-left: 50%;
+        margin-top: 1580px;
+    }
+    .pra1 p
+    {
+        width: 80%;
+        margin-left: 38px;
+        margin-top: 1620px;
+        word-spacing: 4px;
+        text-align: center;
+    } 
+    .footer 
+    {
+        height: auto; 
+        width: 100%; 
+    }
+    .ftitle 
+    {
+        font-size: 30px; 
+        margin-left: 5%; 
+        text-align: center; 
+        margin-top: 10px;
+    }
+    .con11
+    {
+        margin-left: 37%;
+        margin-top: 20%;
+    }
+    .con12
+    {
+        margin-left: 28%;
+        margin-top: 28%;
+    }
+    .con13
+    {
+        margin-left: 36%;
+        margin-top: 35%;
+    }
+    .con14 p
+    {
+        margin-left: 34%;
+        margin-top: 15%;
+        letter-spacing: 5px;
+    }
+    .email p 
+    {
+        margin-left: 6%;
+    }
+    .email hr 
+    {
+        margin-left: 6%;
+        width: 80%;
+        margin-top: 8%;
+    }
+    .con15 p
+    {
+        margin-top: -6%;
+        margin-left: 16%;
+    }
+    .con15 img
+    {
+        margin-top: 5%;
+        margin-left: 6%;
+    }
+    .con15 p br 
+    {
+        display: none;
+    }
+    .send 
+    {
+        width: 60%; 
+        margin-top: 8%;
+        margin-left: 21%;  
+    }
+    .foot
+    {
+        margin-top: 10%;
+        width: 100%;
+    }
+    .foot p 
+    {
+       margin-top: 25%;
+       margin-left: 15%;
+    } 
+}
+
+/* tablets */
+@media (min-width:481px) and (max-width:768px)
+{
+    .icon
+    {
+        margin-left: 0%;
+        margin-top: 3%;
+    }
+    .cart
+    {
+        margin-left: 15%;
+        margin-top: -5%;
+    }
+    .login 
+    {
+        display: none;
+    }
+    .header i 
+    {
+        margin-top: 8%;
+        width: 40%;
+    }
+    i
+    {
+        margin-left: 2%;
+        padding: 0px 0px 8px 0px;
+    }
+    .nav 
+    {
+        padding-top: 8%;
+    } 
+    .head .title
+    {
+        margin-top: 22%;
+        position: absolute;
+        margin-left: 40%;
+    }
+    .heading
+    {
+        margin-top: 30%;
+        margin-left: -14%;
+    }
+    .main
+    {
+        height: 1002px;
+    }
+    .main .box1 img
+    {
+        height: 500px;
+        width: 100%;
+    }
+    .main .box2 img
+    {
+        height: 500px;
+        width: 100%;
+        margin-top: -52%;
+    }
+    .con1 p
+    {
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .con1 hr
+    {
+        margin-left: 24%;
+        margin-top: 14%;
+    }
+    .pra p
+    {
+        width: 40%;
+        text-align: center;
+        margin-top: 18%;
+        margin-left: 5%;
+    }
+    .design p
+    {
+        margin-left: 61%;
+        margin-top: 75%;
+    }
+    .design hr
+    {
+        margin-left: 76%;
+        margin-top: 81%;
+    }
+    .pra1 p
+    {
+        width: 40%;
+        text-align: center;
+        margin-top: 86%;
+        margin-left: 56%;
+    }
+    .footer 
+    {
+        height: auto; 
+        width: 100%; 
+    }
+    .ftitle 
+    {
+        margin-left: 5%; 
+        text-align: center; 
+        margin-top: 40px;
+    }
+    .con11
+    {
+        margin-left: 8%;
+        margin-top: 16%;
+    }
+    .con12
+    {
+        margin-left: 34%;
+        margin-top: -23.8%;
+    }
+    .con13
+    {
+        margin-left: 72%;
+        position: absolute;
+        margin-top: -20%;
+    }
+    .con14 p
+    {
+        margin-left: 40%;
+        margin-top: 10%;
+        letter-spacing: 5px;
+    }
+    .email p 
+    {
+        margin-left: 6%;
+        margin-top: 6%;
+    }
+    .email hr 
+    {
+        margin-left: 6%;
+        width: 85%;
+        margin-top: 7%;
+    }
+    .con15 p
+    {
+        margin-top: -3.2%;
+        margin-left: 12%;
+    }
+    .con15 img
+    {
+        margin-top: -3%;
+        margin-left: 6%;
+    }
+    .con15 p br 
+    {
+        display: none;
+    }
+    .send 
+    {
+        width: 30%; 
+        margin-top: 4%;
+        margin-left: 35%;  
+    }
+    .foot
+    {
+        margin-top: 24%;
+        width: 100%;
+    }
+    .foot p
+    {
+        margin-left: 30%;
+    }
+}
+
+/* laptop */
+@media (min-width:769px) and (max-width:1024px)
+{
+    .icon
+    {
+        margin-left: 0%;
+        margin-top: 1%;
+    }
+    .cart
+    {
+        margin-left: 15%;
+        margin-top: -3%;
+    }
+    .login 
+    {
+        display: none;
+    }
+    .header i 
+    {
+        margin-top: 5%;
+        width: 40%;
+    }
+    i
+    {
+        margin-left: 2%;
+        padding: 0px 0px 8px 0px;
+    }
+    .nav 
+    {
+        padding-top: 6%;
+        
+    } 
+    .head .title
+    {
+        margin-top: 16%;
+        position: absolute;
+        margin-left: 43%;
+    }
+    .heading
+    {
+        margin-top: 25%;
+        margin-left: -4%;
+        word-spacing: 13px;
+    }
+    .main
+    {
+        height: 1003px;
+    }
+    .main .box1 img
+    {
+        height: 500px;
+        width: 100%;
+    }
+    .main .box2 img
+    {
+        height: 500px;
+        width: 100%;
+        margin-top: -39%;
+    }
+    .con1 p
+    {
+        margin-left: 16%;
+        margin-top: 6%;
+    }
+    .con1 hr
+    {
+        margin-left: 24%;
+        margin-top: 10%;
+    }
+    .pra p
+    {
+        width: 40%;
+        text-align: center;
+        margin-top: 15%;
+        margin-left: 4%;
+    }
+    .design p
+    {
+        margin-left: 64%;
+        margin-top: 55%;
+    }
+    .design hr
+    {
+        margin-left: 76%;
+        margin-top: 59%;
+    }
+    .pra1 p
+    {
+        width: 40%;
+        text-align: center;
+        margin-top: 63%;
+        margin-left: 56%;
+    }
+    .footer
+    {
+        height: 400px;
+        width: 100%;
+        margin-top: 5%;
+    }
+    .ftitle
+    {
+        font-size: 45px;
+        font-family:cursive;
+        margin-left: 2%;
+        color: #BC4C2A;
+    }
+    .con11
+    {
+        margin-top: 5%;
+        margin-left: 15%;
+    }
+    .con12
+    {
+        margin-left: 32%;
+        margin-top: -18%;
+    }
+    .con13
+    {
+        margin-left: 57%;
+        margin-top: -18%;
+    }
+    .con14 p
+    {
+        margin-left: 82%;
+        margin-top: -14%;
+    } 
+    .email p
+    {
+        margin-top: 2%;
+        margin-left: 79%;
+    }
+    .email hr
+    {
+        width: 20%;
+        margin-left:79% ;
+        margin-top: 3%;
+    }
+    .con15 p
+    {
+        margin-top: -2.8%;
+        margin-left: 83%;
+    }
+    .con15 img
+    {
+        margin-top: 1%;
+        margin-left: 79%;
+    }
+    .send
+    {
+        margin-top: 4%;
+        margin-left: 84%;
+    }
+    .send:hover
+    {
+        background-color: #BC4C2A;
+        color: white;
+    }
+    .foot
+    {
+        margin-top: 5%;
+    }
+    .foot p
+    {
+        margin-left: 35%;
+        padding-top: 18px;
+    }  
+}
