@@ -1,0 +1,122 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0)),url(https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+.navbar
+{
+    height: 65px;
+    width: 100%;
+    display:flex ;
+}
+.navbarcontainer
+{
+    width: 92%;
+    height: 65px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navabar-list ul
+{
+    display: flex;
+    list-style: none;
+}
+.navabar-list ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 19px;
+    margin-right: 48px; 
+}
+.icon i
+{
+    margin:0px 7px;
+    font-size: 22px;
+    color: white;
+}
+.box
+{
+    height: 585px;
+    width: 35%;
+    position: absolute;
+    right: 8%;
+    background-color:white;
+    top: 12%;
+}
+.boxcontainer
+{
+    height: 575px;
+    width: 80%;
+    margin:60px auto;
+}
+h1
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.boxcontainer p
+{
+    font-size: 32px;
+    text-align: center;
+    padding: 25px;
+    color: rgb(107, 105, 105);
+}
+input
+{
+    width: 100%;
+    border-radius:30px;
+    padding: 20px;
+    border-style: none;
+    background-color: whitesmoke;
+    margin: 18px auto;
+}
+::placeholder
+{
+    color: grey;
+    padding-left: 22px;
+}
+.button input
+{
+    background-color: blue;
+    color: white;
+    margin-top: 14%;
+    text-align: center;
+}
+.text p
+{
+    height: 30px;
+    margin-top: 10%;
+    color: white;
+    font-size: 65px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    margin-left: 2%;
+}
+.video
+{
+    height: 30px;
+    margin-left: 2%;
+    margin-top: 10%;
+    color: white;
+    font-size: 62px;
+    display: flex;
+}
+.video p
+{
+    font-size: 19px;
+    margin-top: 1.5%;
+    margin-left: 1%;
+} 
