@@ -1,0 +1,358 @@
+/* mobile */
+@media (min-width:320px) and (max-width:480px)
+{
+    .navbar h1
+    {
+        position: absolute;
+        margin-left: 40%;
+    }
+    .option ul li a
+    {
+        margin-left: 18%;
+        padding-right:20px; 
+    }
+    .oneimg
+    {
+        height: 500px;
+        width: 100%;
+        display: block;
+    }
+    .one
+    {
+        height:auto;
+        width: 100%;
+    }
+    .one img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .two
+    {
+        height:auto;
+        width: 100%;
+    }
+    .two img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+    .three
+    {
+        height:auto;
+        width: 100%;
+    }
+    .three img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .four
+    {
+        height:auto;
+        width: 100%;
+    }
+    .four img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+    .twoimg
+    {
+        height: 500px;
+        width: 100%;
+        display: block;
+        margin-top: 800px;
+    }
+    .five
+    {
+        height:auto;
+        width: 100%;
+    }
+    .five img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .six
+    {
+        height:auto;
+        width: 100%;
+    }
+    .six img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+    .seven
+    {
+        height:auto;
+        width: 100%;
+    }
+    .seven img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .eight
+    {
+        height:auto;
+        width: 100%;
+    }
+    .eight img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+}
+
+/* tablets */
+@media (min-width:481px) and (max-width:768px)
+{
+    .navbar h1
+    {
+        position: absolute;
+        margin-left: 45%;
+    }
+    .option ul li a
+    {
+        margin-left: 40px;
+        padding-right:20px; 
+    } 
+    .oneimg
+    {
+        height: 500px;
+        width: 50%;
+        display: block;
+    }
+    .one
+    {
+        height:auto;
+        width: 100%;
+    }
+    .one img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .two
+    {
+        height:auto;
+        width: 100%;
+    }
+    .two img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+    .three
+    {
+        height:auto;
+        width: 100%;
+    }
+    .three img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .four
+    {
+        height:auto;
+        width: 100%;
+    }
+    .four img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+    .twoimg
+    {
+        height: 500px;
+        width: 50%;
+        display: block;
+        margin-top: 800px;
+        margin-top: -77%;
+        margin-left: 50%;
+    }
+    .five
+    {
+        height:auto;
+        width: 100%;
+    }
+    .five img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .six
+    {
+        height:auto;
+        width: 100%;
+    }
+    .six img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+    .seven
+    {
+        height:auto;
+        width: 100%;
+    }
+    .seven img
+    {
+        height: 290px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .eight
+    {
+        height:auto;
+        width: 100%;
+    }
+    .eight img
+    {
+        height: 290px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+}
+
+/* laptop */
+@media (min-width:769px) and (max-width:1024px)
+{
+    .navbar h1
+    {
+        position: absolute;
+        margin-left: 45%;
+    }
+    .option ul li a
+    {
+        margin-left: 75px;
+        padding-right:20px; 
+    } 
+    .oneimg
+    {
+        display: block;
+    }
+    .one
+    {
+        height:250px;
+        width: 300px;
+    }
+    .one img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .two
+    {
+        height:250px;
+        width: 300px;
+        margin-left: 35%;
+        margin-top: -27%;
+    }
+    .two img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .three
+    {
+        height:250px;
+        width: 300px;
+        margin-left: 70%;
+        margin-top: -27%;
+    }
+    .three img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .four
+    {
+        height:250px;
+        width: 300px;
+        margin-left: -0.2%;
+        margin-top: 7%;
+    }
+    .four img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .twoimg
+    {
+        display: block;
+    }
+    .five
+    {
+        height:250px;
+        width: 300px;
+        margin-left: 35%;
+        margin-top: -30.2%;
+    }
+    .five img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .six
+    {
+        height:250px;
+        width: 300px;
+        margin-left: 70%;
+        margin-top: -27%;
+    }
+    .six img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .seven
+    {
+        height:250px;
+        width: 300px;
+        margin-left: -0.2%;
+        margin-top: 7%;
+    }
+    .seven img
+    {
+        height: 250px;
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .eight
+    {
+        height:250px;
+        width: 300px;
+        margin-left: 35%;
+        margin-top: -27%;
+    }
+    .eight img
+    {
+        height: 250px;
+        width: 99%;
+        margin: 20px 0px;
+    }
+}
