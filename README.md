@@ -21,3 +21,8 @@ https://gleeful-selkie-71ae6e.netlify.app
 <h1> Landing Page </h1>
 <a href="https://cool-salmiakki-e2b0a1.netlify.app"><img src="landing page.png"></a>
 https://cool-salmiakki-e2b0a1.netlify.app
+
+
+<h1> Practical Exam Css </h1>
+<a href="https://spiffy-elf-e05b20.netlify.app"><img src="practical exam css.png"></a>
+https://spiffy-elf-e05b20.netlify.app
