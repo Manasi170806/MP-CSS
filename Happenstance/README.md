@@ -3,11 +3,6 @@
 https://drive.google.com/file/d/1sgLmjr7BNo69mv889A6FaasgQLf2fLtj/view?usp=sharing
 ```
 
-**Live project**
-``` bash
-mp-css.vercel.app
-```
-
 **👜 Happenstance – Stylish Footwear Website**
 
 This project is a modern, elegant footwear brand website inspired by Happenstance.
